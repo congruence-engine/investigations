@@ -15,7 +15,7 @@ These have been developed as part of the [AHRC](https://www.google.com/search?cl
 
 
 
-[The power of advertisements .  Depictions of domestic appliances in magazines and the parallel emergence of gas and electricity as sources of energy](https://congruence-engine.github.io/The-power-of-advertisements/)
+[The power of advertisements](https://congruence-engine.github.io/The-power-of-advertisements/)
 
 
 
