@@ -4,7 +4,7 @@ layout: default
 
 
 
-# Welcome to Congruence Engine investigations.
+# Welcome to Congruence Engine investigations
 
 
 These are experimental, work-in-progress, mainly proof-of-concept investigations using digital tools and computational technologies and aiming to bring together multiple archive, museum, personal, and heritage UK collections with industrial history focus. 
