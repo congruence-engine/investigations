@@ -10,7 +10,7 @@ layout: default
 These are experimental, work-in-progress, mainly proof-of-concept investigations using digital tools and computational technologies and aiming to bring together multiple archive, museum, personal, and heritage UK collections with industrial history focus. 
 
 
-These have been developed as part of the [AHRC](https://www.google.com/search?client=safari&rls=en&q=AHRC&ie=UTF-8&oe=UTF-8) -  [TaNC](https://www.nationalcollection.org.uk)-funded Congruence Engine project, which focused, among other things, on exploring what a UK collection of industrial heritage materials might look like.
+These have been developed as part of the [AHRC](https://www.ukri.org/councils/ahrc/) -  [TaNC](https://www.nationalcollection.org.uk)-funded Congruence Engine project, which focused, among other things, on exploring what a UK collection of industrial heritage materials might look like.
 
 
 
