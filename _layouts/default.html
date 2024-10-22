@@ -14,11 +14,11 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>&nbsp&nbsp&nbsp<a href="{{ "/" | absolute_url }}">
+        <h1><a href="{{ "/" | absolute_url }}">
           {{ site.title | default: site.github.repository_name }}</a>
         </h1>
       {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <img src="{{site.logo | relative_url}}" alt="Logo"/>
         {% endif %}
       </header>
       <section>
@@ -29,7 +29,7 @@
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
    
-     and generously funded by <img src="../investigations/assets/images/tanc-logo.jpg"/> <img src="../investigations/assets/images/ahrc-logo.jpg"/>
+     and generously funded by <img src="../investigations/assets/images/tanc-logo.jpg"/> alt="Tanc-logo"/ <img src="../investigations/assets/images/ahrc-logo.jpg" alt="AHRC-Logo"//>
         </p>
      {% endif %}
         
