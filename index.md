@@ -49,6 +49,10 @@ These have been developed as part of the [AHRC](https://www.ukri.org/councils/ah
 [Datafication and Cultural Heritage collections data infrastructures](https://congruence-engine.github.io/datafication-cultural-heritage-institutions/)
 
 
+
+[Industrial occupations ontology](https://congruence-engine.github.io/industrial-occupations-ontology/)
+
+
 [Museums' online catalogue-as-data](https://congruence-engine.github.io/catalogues-as-data/)
 
 
@@ -64,7 +68,5 @@ Exploration of LLMs to map large heterogeneous datasets
 Genealogical relationship extraction using census records from Saltaire
 
 Entity-relationship extraction from unstructured text sources
-
-Industrial occupations ontology
 
 Connecting Industrial Folk Songs with museum collections
