@@ -43,6 +43,8 @@ These have been developed as part of the [AHRC](https://www.ukri.org/councils/ah
 [Linking Textile Machine terms via Wikidata](https://congruence-engine.github.io/experimenting-wikidata/)
 
 
+[Visualizing Oral Histories](https://congruence-engine.github.io/visualizing-oral-history/)
+
 
 [Datafication and Cultural Heritage collections data infrastructures](https://congruence-engine.github.io/datafication-cultural-heritage-institutions/)
 
@@ -58,8 +60,6 @@ Mapping Power Stations
 
 
 Exploration of LLMs to map large heterogeneous datasets
-
-Visualizing Oral Histories
 
 Genealogical relationship extraction using census records from Saltaire
 
