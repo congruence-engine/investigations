@@ -15,10 +15,6 @@ These have been developed as part of the [AHRC](https://www.ukri.org/councils/ah
 
 
 
-[The power of advertisements](https://congruence-engine.github.io/The-power-of-advertisements/)
-
-
-
 
 [Experimenting with Optical Character Recognition](https://congruence-engine.github.io/experimenting-with-optical-character-recognition/)
 
@@ -43,14 +39,6 @@ These have been developed as part of the [AHRC](https://www.ukri.org/councils/ah
 [Linking Textile Machine terms via Wikidata](https://congruence-engine.github.io/experimenting-wikidata/)
 
 
-[Visualizing Oral Histories](https://congruence-engine.github.io/visualizing-oral-history/)
-
-
-[Datafication and Cultural Heritage collections data infrastructures](https://congruence-engine.github.io/datafication-cultural-heritage-institutions/)
-
-
-
-[Industrial occupations ontology](https://congruence-engine.github.io/industrial-occupations-ontology/)
 
 
 [Museums' online catalogue-as-data](https://congruence-engine.github.io/catalogues-as-data/)
@@ -60,13 +48,51 @@ These have been developed as part of the [AHRC](https://www.ukri.org/councils/ah
 
 
 
+[Industrial occupations ontology](https://congruence-engine.github.io/industrial-occupations-ontology/)
+
+
+[Visualizing Oral Histories](https://congruence-engine.github.io/visualizing-oral-history/)
+
+
+[The Congruent Data Explorer: Conceiving, Designing and Developing a Toolkit for Pre-Topic Modelling Data Preparation](https://congruence-engine.github.io/Congruent-Data-Explorer/)
+
+
+
+[Datafication and Cultural Heritage collections data infrastructures](https://congruence-engine.github.io/datafication-cultural-heritage-institutions/)
+
+
+
+
+[The power of advertisements](https://congruence-engine.github.io/The-power-of-advertisements/)
+
+The Congruence Engine Data Register 
+
+
 Mapping Power Stations
 
 
-Exploration of LLMs to map large heterogeneous datasets
+
+Connecting Industrial Folk Songs with museum collections
+
 
 Genealogical relationship extraction using census records from Saltaire
 
-Entity-relationship extraction from unstructured text sources
 
-Connecting Industrial Folk Songs with museum collections
+Towards a modelling of the Bradford Thrum v1
+
+Trade Directories Data Extraction
+
+The Microgeographies of Worstedopolis
+
+Aesthetics of AI Reconstruction. Dalton Mill in Virtual Reality
+
+
+Saltaire Phase 1 - Migration and Habitation
+
+Saltaire Phase 2 - Household Genealogies and Education
+
+
+Hidden Histories of Greg Family (and Quarry Bank Mill)
+
+Neural Radiance Field Imaging (Assessment)
+
