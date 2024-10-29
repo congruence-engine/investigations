@@ -83,7 +83,7 @@ Mapping Power Stations
 
 Trade Directories Data Extraction
 
-The Microgeographies of Worstedopolis
+[The Microgeographies of Worstedopolis] (https://congruence-engine.github.io/microgeographies-of-Worstedopolis)
 
 [Aesthetics of AI Reconstruction. Dalton Mill in Virtual Reality] (https://congruence-engine.github.io/Aesthetics-of-AI-Reconstruction/)
 
