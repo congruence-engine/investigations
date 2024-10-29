@@ -77,7 +77,6 @@ Mapping Power Stations
 [Connecting Industrial Folk Songs with museum collections](https://congruence-engine.github.io/connecting-industrial-folk-songs/)
 
 
-Genealogical relationship extraction using census records from Saltaire
 
 
 [Towards a modelling of the Bradford Thrum v1](https://congruence-engine.github.io/towards-a-modelling-of-the-Bradford-Thrum/)
