@@ -85,7 +85,7 @@ Mapping Power Stations
 
 [The Microgeographies of Worstedopolis](https://congruence-engine.github.io/microgeographies-of-Worstedopolis)
 
-[Aesthetics of AI Reconstruction. Dalton Mill in Virtual Reality] (https://congruence-engine.github.io/Aesthetics-of-AI-Reconstruction/)
+[Aesthetics of AI Reconstruction. Dalton Mill in Virtual Reality](https://congruence-engine.github.io/Aesthetics-of-AI-Reconstruction/)
 
 
 Saltaire Phase 1 - Migration and Habitation
