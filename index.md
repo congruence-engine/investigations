@@ -90,7 +90,7 @@ Mapping Power Stations
 
 Saltaire Phase 1 - Migration and Habitation
 
-Saltaire Phase 2 - Household Genealogies and Education
+[Saltaire Phase 2 - Household Genealogies and Education](https://congruence-engine.github.io/saltaire-household-genealogies-education/) 
 
 
 Hidden Histories of Greg Family (and Quarry Bank Mill)
