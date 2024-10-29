@@ -85,7 +85,7 @@ Trade Directories Data Extraction
 
 The Microgeographies of Worstedopolis
 
-Aesthetics of AI Reconstruction. Dalton Mill in Virtual Reality
+[Aesthetics of AI Reconstruction. Dalton Mill in Virtual Reality] (https://congruence-engine.github.io/Aesthetics-of-AI-Reconstruction/)
 
 
 Saltaire Phase 1 - Migration and Habitation
