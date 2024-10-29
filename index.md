@@ -67,20 +67,20 @@ These have been developed as part of the [AHRC](https://www.ukri.org/councils/ah
 
 [The power of advertisements](https://congruence-engine.github.io/The-power-of-advertisements/)
 
+
 The Congruence Engine Data Register 
 
 
 Mapping Power Stations
 
 
-
-Connecting Industrial Folk Songs with museum collections
+[Connecting Industrial Folk Songs with museum collections](https://congruence-engine.github.io/connecting-industrial-folk-songs/)
 
 
 Genealogical relationship extraction using census records from Saltaire
 
 
-Towards a modelling of the Bradford Thrum v1
+[Towards a modelling of the Bradford Thrum v1](https://congruence-engine.github.io/towards-a-modelling-of-the-Bradford-Thrum/)
 
 Trade Directories Data Extraction
 
