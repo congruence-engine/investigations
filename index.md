@@ -81,9 +81,9 @@ Mapping Power Stations
 
 [Towards a modelling of the Bradford Thrum v1](https://congruence-engine.github.io/towards-a-modelling-of-the-Bradford-Thrum/)
 
-[Trade Directories Data Extraction] (https://congruence-engine.github.io/Trade-Directories-Data-Extraction/)
+[Trade Directories Data Extraction](https://congruence-engine.github.io/Trade-Directories-Data-Extraction/)
 
-[The Microgeographies of Worstedopolis] (https://congruence-engine.github.io/microgeographies-of-Worstedopolis)
+[The Microgeographies of Worstedopolis](https://congruence-engine.github.io/microgeographies-of-Worstedopolis)
 
 [Aesthetics of AI Reconstruction. Dalton Mill in Virtual Reality] (https://congruence-engine.github.io/Aesthetics-of-AI-Reconstruction/)
 
